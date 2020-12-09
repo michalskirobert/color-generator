@@ -1,10 +1,10 @@
-# LIVE
+## See Live
 
-[here]()
+- [here](color-generator-hex.netlify.app)
 
-#### Libraries
+## Libraries
 
-[values.js](https://github.com/noeldelgado/values.js)
+- [values.js](https://github.com/noeldelgado/values.js)
 
 # Getting Started with Create React App
 
